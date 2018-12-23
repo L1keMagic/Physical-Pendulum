@@ -1,0 +1,12 @@
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Pendulum.csprojAssemblyReference.cache
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MainPage.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.PendPage.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.QuestionsPage.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Resource1.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Pendulum.csproj.GenerateResource.cache
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

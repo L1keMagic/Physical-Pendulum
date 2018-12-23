@@ -1,0 +1,48 @@
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csprojResolveAssemblyReference.cache
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.GenerateResource.cache
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PendPage.resources
+C:\Users\tejc\Desktop\rrr\Надеюсь что это ласт\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuestionsPage.resources
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csprojResolveAssemblyReference.cache
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PendPage.resources
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuestionsPage.resources
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.GenerateResource.cache
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Надеюсь что это ласт физика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csprojAssemblyReference.cache
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PendPage.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuestionsPage.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.GenerateResource.cache
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Pephaus\Desktop\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csprojResolveAssemblyReference.cache
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PendPage.resources
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QuestionsPage.resources
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.GenerateResource.cache
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tejc\Desktop\Новая папка\Надеюсь что это ласт физика1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
